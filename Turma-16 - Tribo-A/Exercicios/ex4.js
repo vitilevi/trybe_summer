@@ -1,0 +1,1 @@
+// Some dois números inteiros, ou com ponto flutuante, sem utlizar o operador de soma (+)

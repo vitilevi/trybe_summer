@@ -12,4 +12,4 @@ for (let indexLinha = 0; indexLinha <= numeroDeLinhas; indexLinha += 1) {
   console.log(linhaParaImprimir);
   espacos -= 1;
   asterisco += '**';
-;}
+}
