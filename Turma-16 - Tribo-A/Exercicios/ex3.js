@@ -22,5 +22,3 @@ for (let indexLinha = 0; indexLinha < numeroDelinhas; indexLinha += 1) {
   asterisco += '**';
   espaco -= 1;
 }
-
-console.log(5 )
